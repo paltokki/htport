@@ -13,6 +13,7 @@ print("print(\"Hello\\nWorld\")")
 a = input()
 print(a)
 #10
+print("I am ready")
 
 print('a')
 
